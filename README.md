@@ -1,0 +1,1 @@
+# stepik_auto_tests_coursestepik_auto_tests_course_3_6_step_10
